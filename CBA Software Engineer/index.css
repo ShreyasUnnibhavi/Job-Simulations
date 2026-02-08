@@ -1,0 +1,23 @@
+body {
+    background-color: #EBEBEB;
+    font-family: "Gill Sans", sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    background-color: #FFCC00;
+    color: #1E1E1E;
+    font-size: 70pt;
+    padding: 20px;
+}
+
+h2 {
+    color: #1E1E1E;
+    font-size: 38pt;
+}
+
+p {
+    color: #1E1E1E;
+    font-size: 18pt;
+}
